@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{12BD26AA-C0BF-4810-B049-7A45DE0B3432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_API", "UI_API\UI_API.csproj", "{7BE55963-6930-4CC6-AC29-05C8DE6C8942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BD26AA-C0BF-4810-B049-7A45DE0B3432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BD26AA-C0BF-4810-B049-7A45DE0B3432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BD26AA-C0BF-4810-B049-7A45DE0B3432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BD26AA-C0BF-4810-B049-7A45DE0B3432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE55963-6930-4CC6-AC29-05C8DE6C8942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE55963-6930-4CC6-AC29-05C8DE6C8942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE55963-6930-4CC6-AC29-05C8DE6C8942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE55963-6930-4CC6-AC29-05C8DE6C8942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

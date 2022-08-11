@@ -1,0 +1,12 @@
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/bin/Debug/net6.0/Database_Logic.deps.json
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/bin/Debug/net6.0/Database_Logic.dll
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/bin/Debug/net6.0/Database_Logic.pdb
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/Database_Logic.csproj.AssemblyReference.cache
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/Database_Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/Database_Logic.AssemblyInfoInputs.cache
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/Database_Logic.AssemblyInfo.cs
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/Database_Logic.csproj.CoreCompileInputs.cache
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/Database_Logic.dll
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/refint/Database_Logic.dll
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/Database_Logic.pdb
+/Users/denizyilmaz/RiderProjects/CQRS_App/Database_Logic/obj/Debug/net6.0/ref/Database_Logic.dll

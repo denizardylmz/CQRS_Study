@@ -1,0 +1,17 @@
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/bin/Debug/net6.0/BusinessLayer.deps.json
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/bin/Debug/net6.0/BusinessLayer.runtimeconfig.json
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/bin/Debug/net6.0/BusinessLayer.dll
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/bin/Debug/net6.0/BusinessLayer.pdb
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/bin/Debug/net6.0/Database_Logic.dll
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/bin/Debug/net6.0/Database_Logic.pdb
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.AssemblyReference.cache
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfoInputs.cache
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfo.cs
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.CopyComplete
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.dll
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/refint/BusinessLayer.dll
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.pdb
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/BusinessLayer.genruntimeconfig.cache
+/Users/denizyilmaz/RiderProjects/CQRS_App/BusinessLayer/obj/Debug/net6.0/ref/BusinessLayer.dll
